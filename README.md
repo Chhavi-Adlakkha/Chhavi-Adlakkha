@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi-adlakkha&label=Profile%20views&color=0e75b6&style=flat" alt="chhavi-adlakkha" /> </p>
 
-- 🌱 I’m currently learning **React.js ,Node.js ,Express.js**
+- 🌱 I’m currently learning **Mern Stack technologies**
 
-- 💬 Ask me about **Java ,DSA ,React.js**
+- 💬 Ask me about **Java ,DSA and React.js**
 
 - 📫 How to reach me **chhaviadlakha1122@gmail.com**
 
