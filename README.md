@@ -24,9 +24,9 @@
 
 :chart_with_upwards_trend: Github stats 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhavi-adlakkha&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="chhavi-adlakkha" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chhavi-adlakkha&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="chhavi-adlakkha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhavi-adlakkha&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="chhavi-adlakkha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chhavi-adlakkha&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="chhavi-adlakkha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavi-adlakkha&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="chhavi-adlakkha" /></p>
 
