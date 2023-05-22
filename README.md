@@ -30,6 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavi-adlakkha&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="chhavi-adlakkha" /></p>
 
-
-
+[![@chhavi-adlakkha's Holopin board](https://holopin.me/chhaviadlakkha)](https://holopin.io/@chhaviadlakkha)
 
